@@ -13,7 +13,7 @@ pandas_ta==0.3.14b
 python-binance==1.0.27
 
 # Manejo de fechas y utilidades
-python-dateutil==2.9.2
+python-dateutil==2.9.0
 
 # Requests y WebSockets
 requests==2.31.0
@@ -21,6 +21,7 @@ websocket-client==1.6.1
 
 # Logging
 loguru==0.7.0
+
 
 
 
