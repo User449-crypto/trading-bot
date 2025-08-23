@@ -1,4 +1,7 @@
-pandas
-requests
-python-binance
-lightgbm
+pandas==2.1.1
+numpy==1.26.5
+requests==2.32.0
+python-binance==1.0.16
+lightgbm==4.0.0
+scikit-learn==1.3.2
+matplotlib==3.8.0
