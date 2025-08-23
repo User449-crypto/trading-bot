@@ -1,6 +1,6 @@
 # Manipulación de datos
-pandas==2.1.1
-numpy==1.27.0
+pandas==2.0.3
+numpy==1.24.4
 
 # Machine Learning
 scikit-learn==1.3.1
@@ -21,3 +21,4 @@ websocket-client==1.6.1
 
 # Logging
 loguru==0.7.0
+
