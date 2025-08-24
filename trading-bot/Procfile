@@ -1,2 +1,2 @@
 ./start.sh
-worker: python trading-bot/bot.py
+worker: python main/trading-bot/bot.py
