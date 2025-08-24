@@ -1,1 +1,0 @@
-worker: python main/trading-bot/bot.py
